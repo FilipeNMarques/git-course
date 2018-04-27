@@ -9,3 +9,6 @@ Cada dia que passa, estou aprendendo mais!!
 
 
 Aprendi um pouco sobre visualisar os logs com o "-git log" e agora com o "-git diff" para ver o que foi modificado no arquivo antes de commitar
+
+Nessa aula, aprendi o comando git checkout nomedoarquivo  para voltar para a ultima snapshot do arquivo!
+
