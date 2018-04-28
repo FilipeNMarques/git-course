@@ -12,3 +12,8 @@ Aprendi um pouco sobre visualisar os logs com o "-git log" e agora com o "-git d
 
 Nessa aula, aprendi o comando git checkout nomedoarquivo  para voltar para a ultima snapshot do arquivo!
 
+Agora sobre o reset, existem três tipos, --soft --mixed --hard
+
+Quando usar o comando, escolha o commit que você quer voltar, não que vc quer apagar.
+
+Agora aprendendo a subir as alterações para o repositório no Giithub
