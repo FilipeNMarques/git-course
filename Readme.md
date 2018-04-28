@@ -17,3 +17,11 @@ Agora sobre o reset, existem três tipos, --soft --mixed --hard
 Quando usar o comando, escolha o commit que você quer voltar, não que vc quer apagar.
 
 Agora aprendendo a subir as alterações para o repositório no Giithub
+
+
+Aprendendo agora o que é e para que servem os branches
+
+Para criar um novo: git checkout -b nomedobranch
+Para listar os branches: git branch
+Para ir para um branch específico: git checkout nomedobranch
+Para excluir o branch: git branch -D nomedobranch
